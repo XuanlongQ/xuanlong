@@ -4,7 +4,7 @@
 title: "Test2"
 subtitle: ""
 summary: "123"
-authors: [xuanlongxin]
+authors: ["xuanlong"]
 tags: []
 categories: []
 date: 2022-10-22T20:23:46+08:00
@@ -25,5 +25,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['test']
+projects: ['stereotype']
 ---

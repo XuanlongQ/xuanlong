@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Article Name"
-subtitle: "qwe"
-summary: "qwe"
-authors: []
-tags: ['Diodes']
+title: "Test2"
+subtitle: ""
+summary: "123"
+authors: [xuanlongxin]
+tags: []
 categories: []
-date: 2022-10-22T20:15:20+08:00
-lastmod: 2022-10-22T20:15:20+08:00
+date: 2022-10-22T20:23:46+08:00
+lastmod: 2022-10-22T20:23:46+08:00
 featured: false
 draft: false
 

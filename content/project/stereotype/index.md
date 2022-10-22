@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Test"
-summary: "this is a real test"
+title: "Stereotypes in China"
+summary: "we are trying to use machine learning technology mapping SCM model to China."
 authors: ["Xuanlongqin"]
-tags: ["*"]
+tags: ["ML"]
 categories: []
 date: 2022-10-22T20:19:43+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "www.baidu.com"
+external_link: "https://github.com/XuanlongQ/CSSL_SOC"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

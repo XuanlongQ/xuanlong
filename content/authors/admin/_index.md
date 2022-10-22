@@ -1,6 +1,6 @@
 ---
 # Display name
-title: QIN,Xuanlong (秦宣龙)
+title: QIN,XuanLong (秦宣龙)
 
 # Is this the primary user of the site?
 superuser: true

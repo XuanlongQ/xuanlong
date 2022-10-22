@@ -44,8 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use 
-    mailto: 'xuanlongqin.cu@gmail.com'
+    link: 'about/#contact' # For a direct email link, use mailto:xuanlongqin.cu@gmail.com .
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/wowchemy

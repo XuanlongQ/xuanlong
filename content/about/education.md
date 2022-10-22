@@ -29,13 +29,6 @@ experience:
     location: Mainland,China
     date_start: '2015-09-01'
     date_end: '2018-09-01'
-  - title: M.Sc. in Computer Science 
-    company: Peking University
-    company_url: 'https://www.pku.edu.cn/'
-    company_logo: org-x
-    location: Mainland,China
-    date_start: '2015-09-01'
-    date_end: '2018-09-01'
   - title: Exchange student
     company: National Tsing Hua University
     company_url: 'https://www.nthu.edu.tw/'
@@ -43,6 +36,13 @@ experience:
     location: Hsin-chu,Taiwan
     date_start: '2017-04-15'
     date_end: '2017-10-15'
+  - title: B.E. in Electronic Enginnering  
+  company: China University of Mining and Technology
+  company_url: 'http://www.cumt.edu.cn/'
+  company_logo: org-x
+  location: Mainland,China
+  date_start: '2011-09-01'
+  date_end: '2015-09-01'
 
 
 design:

@@ -29,7 +29,6 @@ experience:
     location: Mainland,China
     date_start: '2015-09-01'
     date_end: '2018-09-01'
-
   - title: M.Sc. in Computer Science 
   company: Peking University
   company_url: 'https://www.pku.edu.cn/'
@@ -37,7 +36,6 @@ experience:
   location: Mainland,China
   date_start: '2015-09-01'
   date_end: '2018-09-01'
-
   - title: Exchange student
   company: National Tsing Hua University
   company_url: 'https://www.nthu.edu.tw/'

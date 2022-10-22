@@ -25,7 +25,7 @@ experience:
   - title: Engineer
     company: Tencent 
     company_url: 'https://www.tencent.com/zh-cn/'
-    company_logo: org-te
+    company_logo: org-e
     location: California
     date_start: '2018-09-01'
     date_end: '2022-05-01'

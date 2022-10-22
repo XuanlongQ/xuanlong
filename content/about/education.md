@@ -37,12 +37,12 @@ experience:
     date_start: '2017-04-15'
     date_end: '2017-10-15'
   - title: B.E. in Electronic Enginnering  
-  company: China University of Mining and Technology
-  company_url: 'http://www.cumt.edu.cn/'
-  company_logo: org-x
-  location: Mainland,China
-  date_start: '2011-09-01'
-  date_end: '2015-09-01'
+    company: China University of Mining and Technology
+    company_url: 'http://www.cumt.edu.cn/'
+    company_logo: org-x
+    location: Mainland,China
+    date_start: '2011-09-01'
+    date_end: '2015-09-01'
 
 
 design:

@@ -39,7 +39,7 @@ experience:
   - title: Exchange student
     company: National Tsing Hua University
     company_url: 'https://www.nthu.edu.tw/'
-    company_logo: org-e
+    company_logo: org-x
     location: Hsin-chu,Taiwan
     date_start: '2017-04-15'
     date_end: '2017-10-15'

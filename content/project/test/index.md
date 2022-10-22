@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Test"
-summary: ""
-authors: []
+summary: "this is a real test"
+authors: ["Xuanlongqin"]
 tags: ["*"]
 categories: []
 date: 2022-10-22T20:19:43+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "www.baidu.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

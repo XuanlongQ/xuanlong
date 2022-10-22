@@ -9,7 +9,7 @@ categories: []
 date: 2022-10-22T20:19:43+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/XuanlongQ/CSSL_SOC"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
